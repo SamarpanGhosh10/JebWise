@@ -1,7 +1,5 @@
 #  JebWise — Smart Expense Tracker
 
-
-
 JebWise is a beginner-friendly, command-line personal expense tracker built with Python. It helps users record daily expenses, review transaction history, and understand their spending habits through category-wise summaries.
 
 I'm building JebWise as a hands-on learning project to strengthen my Python programming and data-handling skills.
